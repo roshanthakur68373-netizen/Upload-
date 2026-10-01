@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 # ================= CONFIG =================
-BOT_TOKEN = "8359828511:AAEEWkIltfTyAdUmb8SldkmwnMtYB3GLDRU"
+BOT_TOKEN = "8663164385:AAHRn4INDGEGZO4mH4tW6O-ZyOQw83Va1ZQ"
 FORCE_JOIN = "@duvkuppp"
 VIDEO_CHANNEL = "@dudhwalla"
 PAID_WEBSITE = "https://yourwebsite.com/subscribe"
